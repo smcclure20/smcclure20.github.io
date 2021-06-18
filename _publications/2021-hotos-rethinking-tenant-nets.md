@@ -1,9 +1,9 @@
 ---
 title: "Rethinking Networking Abstractions for Cloud Tenants"
-collection: HotOS '21
+collection: publications
 permalink: /publication/rethinking-tenant-nets
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2021-06-01
+venue: 'HotOS '21'
 paperurl: 'https://dl.acm.org/doi/10.1145/3458336.3465303'
 ---
 
