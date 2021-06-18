@@ -7,4 +7,4 @@ venue: 'Journal 1'
 paperurl: 'https://dl.acm.org/doi/10.1145/3458336.3465303'
 ---
 
-[Download paper here](https://dl.acm.org/doi/pdf/10.1145/3458336.3465303)
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3458336.3465303)
