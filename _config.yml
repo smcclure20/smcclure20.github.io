@@ -86,7 +86,7 @@ author:
   location         : "Berkeley, CA"
   employer         :
   pubmed           :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=gNXCVkAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sarah-m-954a8b164/"
   orcid            : "https://orcid.org/0000-0001-8384-8813"
   pinterest        :
   soundcloud       :
