@@ -11,8 +11,8 @@ Note: this site is still in progress.
 
 I am a second-year PhD student working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/) and [Scott Shenker](http://www.icsi.berkeley.edu/icsi/people/shenker) in the [NetSys Lab](https://netsys.cs.berkeley.edu/) at UC Berkeley, and I am interested in all things networking!
 
-##Publications
-
+Publications
+------
 **Efficient Scheduling Policies for Microsecond-Scale Tasks**<br/>
 Sarah McClure, Amy Ousterhout, Scott Shenker, Sylvia Ratnasamy<br/>
 To appear in NSDI 2022
