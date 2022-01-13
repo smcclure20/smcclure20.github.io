@@ -11,6 +11,8 @@ Note: this site is still in progress.
 
 I am a second-year PhD student working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/) and [Scott Shenker](http://www.icsi.berkeley.edu/icsi/people/shenker) in the [NetSys Lab](https://netsys.cs.berkeley.edu/) at UC Berkeley, and I am interested in all things networking!
 
+I have spent several internships working on network verification at Microsoft with [Jitu Padhye](https://www.microsoft.com/en-us/research/people/padhye/recent-projects/), [Karthick Jayaraman](https://www.linkedin.com/in/kjayaram/), [Ryan Beckett](https://www.microsoft.com/en-us/research/people/rybecket/), and many other fantastic collaborators.
+
 Publications
 ------
 **Efficient Scheduling Policies for Microsecond-Scale Tasks**<br/>
