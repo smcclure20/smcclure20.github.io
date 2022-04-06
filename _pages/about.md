@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Note: this site is still in progress.
 
 I am a second-year PhD student working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/){:target="_blank"} and [Scott Shenker](http://www.icsi.berkeley.edu/icsi/people/shenker){:target="_blank"} in the [NetSys Lab](https://netsys.cs.berkeley.edu/){:target="_blank"} at UC Berkeley, and I am interested in all things networking!
 
