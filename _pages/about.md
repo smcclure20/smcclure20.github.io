@@ -17,7 +17,7 @@ Publications
 **Efficient Scheduling Policies for Microsecond-Scale Tasks**<br/>
 Sarah McClure, Amy Ousterhout, Scott Shenker, Sylvia Ratnasamy<br/>
 NSDI 2022<br/>
-[[PDF]](https://www.usenix.org/system/files/nsdi22-paper-mcclure_2.pdf){:target="_blank"}
+[[PDF]](https://www.usenix.org/system/files/nsdi22-paper-mcclure_2.pdf){:target="_blank"} [[Talk]](https://www.youtube.com/watch?v=xDQg-J0jLmI){:target="_blank"}
 
 
 **Bluebird: High-performance SDN for Bare-metal Cloud Services**<br/>
