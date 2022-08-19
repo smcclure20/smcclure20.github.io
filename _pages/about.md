@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/){:target="_blank"} and [Scott Shenker](http://www.icsi.berkeley.edu/icsi/people/shenker){:target="_blank"} in the [NetSys Lab](https://netsys.cs.berkeley.edu/){:target="_blank"} at UC Berkeley, and I am interested in all things networking!
+I am a third-year PhD student working with [Sylvia Ratnasamy](https://people.eecs.berkeley.edu/~sylvia/){:target="_blank"} and [Scott Shenker](http://www.icsi.berkeley.edu/icsi/people/shenker){:target="_blank"} in the [NetSys Lab](https://netsys.cs.berkeley.edu/){:target="_blank"} at UC Berkeley, and I am interested in all things networking!
 
 I have spent several internships working on network verification at Microsoft with [Jitu Padhye](https://www.microsoft.com/en-us/research/people/padhye/recent-projects/){:target="_blank"}, [Karthick Jayaraman](https://www.linkedin.com/in/kjayaram/){:target="_blank"}, [Ryan Beckett](https://www.microsoft.com/en-us/research/people/rybecket/){:target="_blank"}, and many other fantastic collaborators.
 
@@ -32,4 +32,8 @@ Sarah McClure, Sylvia Ratnasamy, Deepak Bansal, Jitendra Padhye<br/>
 HotOS 2021<br/>
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3458336.3465303){:target="_blank"} [[Talk]](https://www.youtube.com/watch?v=YR24NIBxOcY&list=PLl-7Fg11LUZe_6cCrz6sVvTbE_8SEobNB&index=7){:target="_blank"}
 
-
+Teaching
+------
+**CS 168: Introduction to the Internet: Architecture and Protocols**<br/>
+Discussion TA<br/>
+[[Course Website]](http://cs168.io/){:target="_blank"}
