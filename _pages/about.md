@@ -37,3 +37,5 @@ Teaching
 **CS 168: Introduction to the Internet: Architecture and Protocols**<br/>
 Discussion TA<br/>
 [[Course Website]](http://cs168.io/){:target="_blank"}
+
+[WORKSHEET 10/31](https://drive.google.com/file/d/1sCItTk1doIgFD_ukz8p5qYhcw6RFaWgN/view?usp=sharing){:target="_blank"}
