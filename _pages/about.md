@@ -38,4 +38,3 @@ Teaching
 Discussion TA<br/>
 [[Course Website]](http://cs168.io/){:target="_blank"}
 
-[WORKSHEET 10/31](https://drive.google.com/file/d/1ehyBOIWnlzsRq8tjZgfbiwf95hZS1WuB/view?usp=sharing){:target="_blank"}
