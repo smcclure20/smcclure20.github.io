@@ -14,6 +14,11 @@ I have spent several internships working on network verification at Microsoft wi
 
 Publications
 ------
+**Invisinets: Removing the Networking from Cloud Networks**<br/>
+Sarah McClure, Zeke Medley, Deepak Bansal, Karthick Jayaraman, Ashok Narayanan, Jitendra Padhye, Sylvia Ratnasamy, Anees Shaikh, Rishabh Tewari<br/>
+To appear in NSDI 2023<br/>
+
+
 **Efficient Scheduling Policies for Microsecond-Scale Tasks**<br/>
 Sarah McClure, Amy Ousterhout, Scott Shenker, Sylvia Ratnasamy<br/>
 NSDI 2022<br/>
