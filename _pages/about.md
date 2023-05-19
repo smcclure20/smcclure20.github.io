@@ -17,7 +17,7 @@ Publications
 **Invisinets: Removing the Networking from Cloud Networks**<br/>
 Sarah McClure, Zeke Medley, Deepak Bansal, Karthick Jayaraman, Ashok Narayanan, Jitendra Padhye, Sylvia Ratnasamy, Anees Shaikh, Rishabh Tewari<br/>
 NSDI 2023<br/>
-[[PDF]](https://www.usenix.org/system/files/nsdi23-mcclure.pdf){:target="_blank"}[[Talk]](https://www.youtube.com/watch?v=w_m_V2qJbU0){:target="_blank"}
+[[PDF]](https://www.usenix.org/system/files/nsdi23-mcclure.pdf){:target="_blank"} [[Talk]](https://www.youtube.com/watch?v=w_m_V2qJbU0){:target="_blank"}
 
 
 **Efficient Scheduling Policies for Microsecond-Scale Tasks**<br/>
