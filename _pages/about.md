@@ -41,7 +41,7 @@ HotOS 2021<br/>
 Teaching
 ------
 **CS 168: Introduction to the Internet: Architecture and Protocols**<br/>
-Head TA (SP 2024)
+Head TA (SP 2024)<br/>
 Discussion TA (FA 2022)<br/>
 [[Course Website]](http://cs168.io/){:target="_blank"}
 
