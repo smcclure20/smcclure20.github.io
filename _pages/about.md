@@ -12,6 +12,13 @@ I am a fourth-year PhD student working with [Sylvia Ratnasamy](https://people.ee
 
 I have spent several internships working on network verification at Microsoft with [Jitu Padhye](https://www.microsoft.com/en-us/research/people/padhye/recent-projects/){:target="_blank"}, [Karthick Jayaraman](https://www.linkedin.com/in/kjayaram/){:target="_blank"}, [Ryan Beckett](https://www.microsoft.com/en-us/research/people/rybecket/){:target="_blank"}, and many other fantastic collaborators.
 
+Projects
+------
+**Paraglider**<br/>
+Streamlines cloud networking with a simple interface that transparently constructs the single or multicloud networks necessary to achieve high-level connectivity goals.<br/>
+Linux Foundation Project<br/>
+[[Website]](https://paragliderproject.io) [[Announcement]](https://www.linuxfoundation.org/press/linux-foundation-launches-paraglider-to-reduce-complexity-for-developers-and-network-operators-within-and-across-clouds) [[GitHub]](https://github.com/paraglider-project/paraglider)
+
 Publications
 ------
 **Invisinets: Removing the Networking from Cloud Networks**<br/>
