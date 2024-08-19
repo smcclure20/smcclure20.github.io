@@ -49,8 +49,10 @@ Teaching
 ------
 **CS 168: Introduction to the Internet: Architecture and Protocols**<br/>
 Head TA (SP 2024)<br/>
+[[Course Website]](http://sp24.cs168.io/){:target="_blank"}
+
 Discussion TA (FA 2022)<br/>
-[[Course Website]](http://cs168.io/){:target="_blank"}
+[[Course Website]](http://fa22.cs168.io/){:target="_blank"}
 
 Invited Talks
 -----
