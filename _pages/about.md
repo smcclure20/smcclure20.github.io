@@ -55,10 +55,10 @@ Discussion TA (FA 2022)<br/>
 Invited Talks
 -----
 **Paraglider Project Session**<br/>
-InfoSys OSPO CodeCon 2024
+InfoSys OSPO CodeCon 2024<br/>
 August 5, 2024
 
 **Paraglider Project Announcement**<br/>
-Linux Foundation Networking ONE Summit 2024
-April 30, 2024
+Linux Foundation Networking ONE Summit 2024<br/>
+April 30, 2024<br/>
 [[Recording]](https://youtu.be/uU5jXK5IqHE?list=PL0bkBeEamheA6oG1U0ZEuXavNJeHXxzZM&t=890){:target="_blank"}
