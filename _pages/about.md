@@ -52,3 +52,13 @@ Head TA (SP 2024)<br/>
 Discussion TA (FA 2022)<br/>
 [[Course Website]](http://cs168.io/){:target="_blank"}
 
+Invited Talks
+-----
+**Paraglider Project Session**<br/>
+InfoSys OSPO CodeCon 2024
+August 5, 2024
+
+**Paraglider Project Announcement**<br/>
+Linux Foundation Networking ONE Summit 2024
+April 30, 2024
+[[Recording]](https://youtu.be/uU5jXK5IqHE?list=PL0bkBeEamheA6oG1U0ZEuXavNJeHXxzZM&t=890){:target="_blank"}
