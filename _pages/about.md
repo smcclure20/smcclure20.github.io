@@ -49,6 +49,7 @@ Teaching
 ------
 **CS 168: Introduction to the Internet: Architecture and Protocols**<br/>
 Head TA (SP 2024)<br/>
+<span style="color: red;">Outstanding Graduate Student Instructor Award 2025</span><br/>
 [[Course Website]](http://sp24.cs168.io/){:target="_blank"}
 
 Discussion TA (FA 2022)<br/>
