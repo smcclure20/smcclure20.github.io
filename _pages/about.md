@@ -23,7 +23,8 @@ Publications
 ------
 **No Signal to Rule Them All: A Systematic Analysis of In-Network Congestion Signals**<br/>
 Sarah McClure, Nandita Dukkipati, Sylvia Ratnasamy, Scott Shenker<br/>
-NINeS 2026 *(to appear)*<br/> [[Extended Version]](../files/cca_signals_extended.pdf){:target="_blank"} 
+NINeS 2026<br/> 
+[[PDF]](https://nines-conference.org/papers/p012-McClure.pdf){:target="_blank"} [[Talk]](https://vimeo.com/showcase/NINeS?video=1161801780){:target="_blank"} [[Extended Version]](../files/cca_signals_extended.pdf){:target="_blank"} 
 
 **A Case for Learned Cloud Emulators**<br/>
 Archit Bhatnagar, Yiming Qiu, Sarah McClure, Sylvia Ratnasamy, Ang Chen<br/>
