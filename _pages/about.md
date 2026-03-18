@@ -59,7 +59,7 @@ HotOS 2021<br/>
 Pre-prints
 ------
 **Load Balancing for AI Training Workloads**<br/>
-Sarah McClure, Sylvia Ratnasamy, Scott Shenker<br>
+Sarah McClure, Evyatar Cohen, Alexander Shpiner, Mark Silberstein, Scott Shenker, Sylvia Ratnasamy, Isaac Keslassy<br>
 [[PDF]](https://arxiv.org/pdf/2507.21372){:target="_blank"} 
 
 Teaching
