@@ -12,6 +12,12 @@ I am a sixth-year PhD student working with [Sylvia Ratnasamy](https://people.eec
 
 I have spent several internships working on network verification at Microsoft with [Jitu Padhye](https://www.microsoft.com/en-us/research/people/padhye/recent-projects/){:target="_blank"}, [Karthick Jayaraman](https://www.linkedin.com/in/kjayaram/){:target="_blank"}, [Ryan Beckett](https://www.microsoft.com/en-us/research/people/rybecket/){:target="_blank"}, and many other fantastic collaborators.
 
+
+<div style="padding: 5px; border-left: 5px solid #0969da; background-color: #e0e6eefe; border-radius: 6px; margin: 20px 0;">
+  <strong>ℹ️ Note</strong><br/>
+  I am currently on the market for industry (research) roles!
+</div>
+
 Projects
 ------
 **Paraglider**<br/>
