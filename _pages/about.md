@@ -15,7 +15,7 @@ I have spent several internships working on network verification at Microsoft wi
 
 <div style="padding: 5px; border-left: 5px solid #0969da; background-color: #e0e6eefe; border-radius: 6px; margin: 20px 0;">
   <strong>ℹ️ Note</strong><br/>
-  I am currently on the market for industry research roles (broadly defined)! <a href="../files/Sarah_McClure_CV_3_19_26.pdf">[CV]</a>
+  I am currently on the market for industry research roles (broadly defined)! <a href="../files/Sarah_McClure_CV_4_22.pdf">[CV]</a>
 </div>
 
 Projects
