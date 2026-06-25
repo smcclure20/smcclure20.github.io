@@ -313,3 +313,15 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+// Pull lists closer to the paragraph/text immediately above them
+.page__content {
+  p + ul, 
+  p + ol {
+    margin-top: -1em; // Pulls the list up closer; adjust this value as needed
+  }
+
+  li {
+    margin-bottom: 0.2em; // Default is usually 0.5em; adjust this lower or to 0 as desired
+  }
+}

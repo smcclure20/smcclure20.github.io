@@ -78,13 +78,19 @@ Head TA (SP 2024)<br/>
 Discussion TA (FA 2022)<br/>
 [[Course Website]](http://fa22.cs168.io/){:target="_blank"}
 
-Invited Talks
+Additional Talks
 -----
-**Paraglider Project Session**<br/>
-InfoSys OSPO CodeCon 2024<br/>
-August 5, 2024
+**On Topology's Role in AI Training**
+- Google, June 25, 2026
 
-**Paraglider Project Announcement**<br/>
-Linux Foundation Networking ONE Summit 2024<br/>
-April 30, 2024<br/>
-[[Recording]](https://youtu.be/uU5jXK5IqHE?list=PL0bkBeEamheA6oG1U0ZEuXavNJeHXxzZM&t=890){:target="_blank"}
+<br>
+**Load Balancing for AI Training**
+- Google, April 1, 2026
+- NVIDIA, September 4, 2025
+
+<br>
+**Paraglider**
+- [NANOG 97](https://nanog.org/events/nanog-97/), June 4, 2026
+- MITRE Cloud Security Round Table, December 6, 2024
+- InfoSys OSPO CodeCon 2024, August 5, 2024
+- Linux Foundation Networking ONE Summit 2024, April 30, 2024 [[Recording]](https://youtu.be/uU5jXK5IqHE?list=PL0bkBeEamheA6oG1U0ZEuXavNJeHXxzZM&t=890){:target="_blank"}
