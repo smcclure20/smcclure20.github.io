@@ -62,6 +62,10 @@ Pre-prints
 Sarah McClure, Evyatar Cohen, Alexander Shpiner, Mark Silberstein, Scott Shenker, Sylvia Ratnasamy, Isaac Keslassy<br>
 [[PDF]](https://arxiv.org/pdf/2507.21372){:target="_blank"} 
 
+**On Topology's Role in ML Training Performance**<br/>
+Sarah McClure, Tegan Wilson, Brad Karp, Michael Mitzenmacher, Sylvia Ratnasamy, Scott Shenker, Minlan Yu<br>
+[[PDF]](http://arxiv.org/abs/2608.01707){:target="_blank"} 
+
 Teaching
 ------
 **CS 168: Introduction to the Internet: Architecture and Protocols**<br/>
@@ -75,16 +79,17 @@ Discussion TA (FA 2022)<br/>
 Additional Talks
 -----
 **On Topology's Role in AI Training**
-- Google, June 25, 2026
+- Google -- June 25, 2026
 
 <br>
 **Load Balancing for AI Training**
-- Google, April 1, 2026
-- NVIDIA, September 4, 2025
+- Google -- April 1, 2026
+- NVIDIA -- September 4, 2025
 
 <br>
 **Paraglider**
-- [NANOG 97](https://nanog.org/events/nanog-97/), June 4, 2026
-- MITRE Cloud Security Round Table, December 6, 2024
-- InfoSys OSPO CodeCon 2024, August 5, 2024
-- Linux Foundation Networking ONE Summit 2024, April 30, 2024 [[Recording]](https://youtu.be/uU5jXK5IqHE?list=PL0bkBeEamheA6oG1U0ZEuXavNJeHXxzZM&t=890){:target="_blank"}
+- [NANOG 97](https://nanog.org/events/nanog-97/) -- June 4, 2026
+- MITRE Cloud Security Round Table -- December 6, 2024
+- InfoSys OSPO CodeCon 2024 -- August 5, 2024
+- Linux Foundation Networking ONE Summit 2024 -- April 30, 2024 [[Recording]](https://youtu.be/uU5jXK5IqHE?list=PL0bkBeEamheA6oG1U0ZEuXavNJeHXxzZM&t=890){:target="_blank"}
+- Microsoft Azure Office of the CTO -- December 6, 2023
